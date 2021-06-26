@@ -2,7 +2,8 @@
 
 Objetivo: Colocar em práticas todas as habilidades adquiridas no primeiro semestre no Tecnologo em Sistemas para Internet 
 
-Tecnologias utilizadas: HTML5, CSS3 e BOOTSTRAP 5
+Tecnologias utilizadas para desenvolvimento: HTML5, CSS3 e BOOTSTRAP5
+Tecnologia utilizada para Prototipação do Layout: FIGMA
 
 ![PÁGINA INICIAL](https://i.imgur.com/GD05KfC.png)
 ![NOSSA HISTORIA](https://imgur.com/S1U43Yi.png)
